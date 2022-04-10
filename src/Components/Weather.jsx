@@ -1,5 +1,5 @@
 import './Weather.css';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import HourlyCard from './HourlyCard'
 
 const Weather = () => {
